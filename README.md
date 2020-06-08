@@ -3,6 +3,9 @@
 Neste tutorial fornecemos um R markdown para análises de séries temporais exemplificadas no artigo "Boas práticas na análise de séries temporais em herpetologia"
 de Karoline Ceron, Marcos R. Severgnini & Diogo B. Provete.
 
+### ATENÇÃO: Os dados de exemplo são fornecidos no arquivo "data.zip"
+### O tutorial é o arquivo "tutorial.Rmd"
+
 Antes de ir ao tutorial, siga o passo-a-passo abaixo:
 
 ## Selecione a análise mais adequada ao seu conjunto de dados
@@ -11,6 +14,8 @@ Antes de ir ao tutorial, siga o passo-a-passo abaixo:
 ## Prepare o formato de entrada dos dados
 
 ![](Entrada_dados.jpg)
+
+
 
 
 ## Boa análise! 
