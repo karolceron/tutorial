@@ -10,7 +10,7 @@ Selecione a análise mais adequada ao seu conjunto de dados
 
 Prepare o formato de entrada dos dados
 
-![](Entrada de dados.jpg)
+![](Entrada_dados.jpg)
 
 
 ## Boa análise! 
