@@ -5,6 +5,7 @@ de Karoline Ceron, Marcos R. Severgnini & Diogo B. Provete.
 
 #### ATENÇÃO: Os dados de exemplo são fornecidos no arquivo "data.zip"
 #### O tutorial é o arquivo "tutorial.Rmd"
+#### O R Markdown para o script é "Guia-de-analises.html"
 #### O passo-a-passo da análise circular no software ORIANA está em "Passo-a-Passo análise circular no Oriana.pdf"
 
 Antes de ir ao tutorial, siga o passo-a-passo abaixo:
