@@ -10,11 +10,11 @@ de Karoline Ceron, Marcos R. Severgnini & Diogo B. Provete.
 Antes de ir ao tutorial, siga o passo-a-passo abaixo:
 
 ## Selecione a análise mais adequada ao seu conjunto de dados
-![](/figures/Decision_Tree-2.jpg)
+![](/figures/Fig1.jpg)
 
 ## Prepare o formato de entrada dos dados
 
-![](/figures/Entrada_dados.jpg)
+![](/figures/Fig2.jpg)
 
 
 
